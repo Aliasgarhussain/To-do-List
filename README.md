@@ -1,6 +1,8 @@
 # To-Do List Backend API
 
 The application provides a RESTful API implementation which connects to a To-Do List application developed using Node.js and Express.js and MongoDB Atlas. 
+Assignment 8 part 1 https://docs.google.com/document/d/1k_VSp9RFDorCfwHiPEV3HvsVub80gNX7ZgLby_d0cgA/edit?usp=sharing
+with screenshots of testing.
 
 ## Project Overview
 
